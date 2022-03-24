@@ -1,7 +1,8 @@
-# node-js-serever
+# node-js-server
 ![logotype-07](/assets/express.png)
 
 # Iniciar la aplicación
+npm install
 npm run dev
 
 # Guía telefónica
