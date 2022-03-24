@@ -2,7 +2,7 @@
 ![logotype-07](/assets/express.png)
 
 # Iniciar la aplicación
-npm install
+npm install <br>
 npm run dev
 
 # Guía telefónica
